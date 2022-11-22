@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/raysk4ever/github-action-test/issues"
   },
-  "homepage": "https://github.com/raysk4ever/github-action-test#readme"
+  "homepage": "https://github.com/raysk4ever/github-action-test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
